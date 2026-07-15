@@ -8,7 +8,8 @@ A service-disabled-veteran-owned small business in Raleigh, North Carolina. Foun
 
 ## What's public here
 
-- [`baion-std`](../baion-std) — seven languages (C, C++, Rust, Go, D, Haskell, OCaml) producing byte-identical canonical JSON + SHA-256, with a one-command cross-lineage verifier and CI that proves it on every push. The trust discipline underneath our multi-component systems.
+- [`baion-std`](../baion-std) — seven languages (C, C++, Rust, Go, D, Haskell, OCaml) producing byte-identical canonical JSON + SHA-256, with a one-command cross-lineage verifier and CI that proves it on every push to `main` and every pull request. The trust discipline underneath our multi-component systems.
+- [`baion-vault-method`](../baion-vault-method) — the governance method behind the work: receipts establish state, exact-byte review and promotion, positive controls before negative results, preserved retractions — as a reference methodology with executable enforcement, not just documentation.
 - [`framework`](../framework) — essays on multi-model consensus, accountability, and why convergence is the product.
 - More at [baion.dev](https://baion.dev) — instruments, evidence (DOI, pre-registration, federal filings), and method.
 - **Live demo:** [demo.baion.dev](https://demo.baion.dev) — the Shadow Comparator on the real engine. Practice data, clearly badged; every run carries a replayable receipt.

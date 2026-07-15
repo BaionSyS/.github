@@ -1,6 +1,6 @@
 # BAION Systems LLC
 
-**Coordination without choreography.** BAION builds a physical coordination substrate for AI agent teams: instead of a central orchestrator routing messages, agents couple through a shared dynamical medium — and team behavior (consensus, task allocation, recovery from disruption) emerges from the physics of that coupling.
+**Coordination without choreography.** BAION researches a physical coordination substrate for AI agent teams: instead of a central orchestrator routing messages, agents couple through a shared dynamical medium. We are testing whether that coupling can support behaviors such as consensus, task allocation, and recovery from disruption — experimental program, receipts required, claims bounded by what runs prove.
 
 A service-disabled-veteran-owned small business in Raleigh, North Carolina. Solo-founded, local-first, receipts-driven: every experimental claim in our work is backed by hash-chained run records on hardware we own.
 
@@ -12,7 +12,7 @@ A service-disabled-veteran-owned small business in Raleigh, North Carolina. Solo
 
 ## See it run
 
-The Shadow Comparator replays a work week on the real engine and shows the field doing its work — every flash is an actual event landing, read straight off the engine's grid, not drawn from the schedule:
+The Shadow Comparator replays a work week on the real engine — every flash in the field view is an event read off the engine's grid, not drawn from the schedule. Practice data, clearly badged; it demonstrates the instrument, not a validated result:
 
 ![The field, live — BAION Shadow Comparator](media/baion_field_live.gif)
 

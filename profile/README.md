@@ -8,9 +8,10 @@ A service-disabled-veteran-owned small business in Raleigh, North Carolina. Foun
 
 ## What's public here
 
-- [`baion-std`](../baion-std) — seven languages (C, C++, Rust, Go, D, Haskell, OCaml) producing byte-identical canonical JSON + SHA-256, with a one-command cross-lineage verifier and CI that proves it on every push to `main` and every pull request. The trust discipline underneath our multi-component systems.
-- [`baion-vault-method`](../baion-vault-method) — the governance method behind the work: receipts establish state, exact-byte review and promotion, positive controls before negative results, preserved retractions — as a reference methodology with executable enforcement, not just documentation.
-- [`framework`](../framework) — essays on multi-model consensus, accountability, and why convergence is the product.
+- [`baion-std`](https://github.com/BaionSyS/baion-std) — seven languages (C, C++, Rust, Go, D, Haskell, OCaml) producing byte-identical canonical JSON + SHA-256, with a one-command cross-lineage verifier and CI that proves it on every push to `main` and every pull request. The trust discipline underneath our multi-component systems.
+- [`baion-vault-method`](https://github.com/BaionSyS/baion-vault-method) — the governance method behind the work: receipts establish state, exact-byte review and promotion, positive controls before negative results, preserved retractions — as a reference methodology with executable enforcement, not just documentation.
+- [`synchronization-resistance`](https://github.com/BaionSyS/synchronization-resistance) — a pre-registered study measuring how hard it is to get independent LLMs to agree. Three hypotheses passed, one was inconclusive, one failed — all reported. Pre-registration and archival DOI linked from the repo; not peer reviewed.
+- [`framework`](https://github.com/BaionSyS/framework) — essays on multi-model consensus, accountability, and why convergence is the product. Historical material from early 2026; later work bounds some of its claims, and the repo carries editor's notes saying where.
 - More at [baion.dev](https://baion.dev) — instruments, evidence (DOI, pre-registration, federal filings), and method.
 - **Live demo:** [demo.baion.dev](https://demo.baion.dev) — the Shadow Comparator on the real engine. Practice data, clearly badged; every run carries a replayable receipt.
 

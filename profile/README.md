@@ -15,9 +15,20 @@ A service-disabled-veteran-owned small business in Raleigh, North Carolina. Foun
 - More at [baion.dev](https://baion.dev) — instruments, evidence (DOI, pre-registration, federal filings), and method.
 - **Live demo:** [demo.baion.dev](https://demo.baion.dev) — the Shadow Comparator on the real engine. Practice data, clearly badged; every run carries a replayable receipt.
 
-## What's not (yet)
+## Private evaluation work
 
-The coordination substrate itself (U.S. Provisional Patent Application #64/042,046) and related components are unreleased pending counsel review. BAION's long-run model is open: the business charges for responsibility, not control.
+The coordination substrate now has two private, invitation-only evaluation
+lineages: a benchmark-neutral package and a separate MAFBench adapter package.
+Both carry runnable examples, contract tests, architecture notes, and
+reproducibility receipts. They are evaluation surfaces, not published benchmark
+results, and no Dairy Bench integration is claimed.
+
+The underlying mechanisms are described across U.S. Provisional Patent
+Applications #64/042,046 (filed April 17, 2026), #64/143,042 (filed August 28,
+2026), and #64/145,679 (filed September 1, 2026). These are provisional
+applications; no patent grant is asserted. The engine source and full internal
+harness remain unreleased pending counsel review. BAION's long-run model is
+open: the business charges for responsibility, not control.
 
 ## Contact
 

@@ -1,10 +1,10 @@
 # BAION Systems LLC
 
-**Sovereignty infrastructure.** BAION Systems builds instruments that give people evidence of what is happening to them — receipt-bearing, reproducible, and owned by the person who generated it, not the service they happened to use.
+**Coordination without a central controller.** BAION Systems builds a decentralized coordination substrate for teams of agents, alongside instruments that give people evidence of what is happening to them — receipt-bearing, reproducible, and owned by the person who generated it, not the service they happened to use.
 
 Evidence was the first half. The same instruments now run forward: coordination that keeps a schedule — or a team of local AI agents — moving with no central dispatcher to lose, and a receipt for every decision it made. The coordination substrate is an active research program: agents couple through a shared dynamical medium instead of waiting on a central orchestrator, and we are testing whether that coupling can support consensus, task allocation, and recovery from disruption — claims bounded by what runs prove.
 
-A service-disabled-veteran-owned small business in Raleigh, North Carolina. Founder-led, local-first, receipts-driven: every experimental claim in our work is backed by hash-chained run records on hardware we own.
+A service-disabled-veteran-owned small business in Raleigh, North Carolina (self-certified; certification in progress). Founder-led, local-first, receipts-driven: every experimental claim in our work is backed by hash-chained run records on hardware we own.
 
 ## What's public here
 
@@ -13,15 +13,16 @@ A service-disabled-veteran-owned small business in Raleigh, North Carolina. Foun
 - [`synchronization-resistance`](https://github.com/BaionSyS/synchronization-resistance) — a pre-registered study measuring how hard it is to get independent LLMs to agree. Three hypotheses passed, one was inconclusive, one failed — all reported. Pre-registration and archival DOI linked from the repo; not peer reviewed.
 - [`framework`](https://github.com/BaionSyS/framework) — essays on multi-model consensus, accountability, and why convergence is the product. Historical material from early 2026; later work bounds some of its claims, and the repo carries editor's notes saying where.
 - More at [baion.dev](https://baion.dev) — instruments, evidence (DOI, pre-registration, federal filings), and method.
-- **Live demo:** [demo.baion.dev](https://demo.baion.dev) — the Shadow Comparator on the real engine. Practice data, clearly badged; every run carries a replayable receipt.
+- **Live demo:** [demo.baion.dev](https://demo.baion.dev) — BAION Scheduler: a personal scheduling beta and labeled practice examples, with calendar-export and anonymous-receipt controls.
+
+- **[TimeCairn](https://timecairn.com)** — the inventor registry in public preview, with timestamped evidence records and downloadable proof material.
 
 ## Private evaluation work
 
-The coordination substrate now has two private, invitation-only evaluation
-lineages: a benchmark-neutral package and a separate MAFBench adapter package.
-Both carry runnable examples, contract tests, architecture notes, and
-reproducibility receipts. They are evaluation surfaces, not published benchmark
-results, and no Dairy Bench integration is claimed.
+The current private evaluation package is available by invitation after a
+mutual NDA. It includes runnable examples, contract tests, architecture notes,
+and reproducibility receipts. It is an evaluation surface, not a published
+benchmark result or a finished benchmark integration.
 
 The underlying mechanisms are described across U.S. Provisional Patent
 Applications #64/042,046 (filed April 17, 2026), #64/143,042 (filed August 28,
